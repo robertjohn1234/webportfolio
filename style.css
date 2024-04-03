@@ -1,0 +1,30 @@
+
+body {
+	font-family: "Roboto Mono", monospace;
+	background: floralwhite;
+}
+
+#projects, #contact, #contact-form {
+	background: #F5F5DC;
+}
+
+.greenish-brown {
+	color: #556B2F !important;
+}
+
+.blue-purple {
+	color: #6A5ACD !important;
+}
+
+.btn-bg {
+	background: #6A5ACD !important;
+}
+
+#nav, #footer {
+	background: #FFDAB9 !important;
+}
+
+.font-style1 {
+	font-size: 18px !important;
+	font-weight: 500 !important;
+}
